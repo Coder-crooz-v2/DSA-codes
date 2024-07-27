@@ -7,3 +7,6 @@ Phone_directory_using_trie
 Nqueens
 BFS_in_graph
 DFS_in_graph
+Shortest_path_in_undirected_graph
+Shortest_path_in_directed_graphs
+Djikstras_algorithm
