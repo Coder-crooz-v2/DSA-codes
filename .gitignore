@@ -11,3 +11,5 @@ Shortest_path_in_undirected_graph
 Shortest_path_in_directed_graphs
 Djikstras_algorithm
 Minimum_spanning_tree_Prims
+Bellman_Ford
+Floyd_Warshall
